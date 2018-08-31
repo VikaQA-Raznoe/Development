@@ -1,0 +1,4 @@
+ru\sputnik\steps\SearchScenarioSteps.class
+ru\sputnik\pages\SearchPage.class
+ru\sputnik\tests\SputnikSearchTest.class
+ru\sputnik\pages\ResultPage.class
